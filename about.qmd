@@ -6,7 +6,10 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/EvertonColombo
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/EvertonColombo
 
 ---
 

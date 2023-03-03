@@ -9,6 +9,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/EvertonColombo
+      - icon: twitter
+        href: https://twitter.com/EvertonColombo
 
 format:
   html:
