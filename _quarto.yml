@@ -39,15 +39,3 @@ format:
     theme: Morph
     toc: true
     css: styles.css
-
-listing:
-  - id: all-posts
-    contents:
-      - posts
-      - til
-    sort: "date desc"
-    type: default
-    categories: true
-    feed:
-      items: 50
-      type: full
