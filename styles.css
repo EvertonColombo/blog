@@ -1,0 +1,30 @@
+/* css styles */
+
+.quote-container {
+  margin: 2em 0;
+  padding: 1.5em;
+  border-left: 4px solid #569cd6;
+  background: rgba(86, 156, 214, 0.1);
+  border-radius: 4px;
+}
+
+.quote-text {
+  font-size: 1.2em;
+  font-style: italic;
+  margin-bottom: 0.5em;
+}
+
+.quote-author {
+  text-align: right;
+  font-weight: bold;
+  color: #569cd6;
+}
+
+.quote-author a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.quote-author a:hover {
+  text-decoration: underline;
+}
