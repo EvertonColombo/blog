@@ -1,9 +1,30 @@
 [
   {
+    "listing": "/quotes/index.html",
+    "items": [
+      "/quotes/posts/2025-bjorn-ulvaeus.html",
+      "/quotes/posts/2025-rupert-spira.html",
+      "/quotes/posts/2025-terence-tao.html",
+      "/quotes/posts/2025-aaron-boodman.html",
+      "/quotes/posts/2025-ethan-mollick-2.html",
+      "/quotes/posts/2025-thomas-montine.html",
+      "/quotes/posts/2025-andrej-karpathy.html",
+      "/quotes/posts/2025-ethan-mollick-1.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html",
-      "/presentations/dados-vivos.html"
+      "/presentations/dados-vivos.html",
+      "/quotes/posts/2025-bjorn-ulvaeus.html",
+      "/quotes/posts/2025-rupert-spira.html",
+      "/quotes/posts/2025-terence-tao.html",
+      "/quotes/posts/2025-aaron-boodman.html",
+      "/quotes/posts/2025-ethan-mollick-2.html",
+      "/quotes/posts/2025-thomas-montine.html",
+      "/quotes/posts/2025-andrej-karpathy.html",
+      "/quotes/posts/2025-ethan-mollick-1.html"
     ]
   },
   {
