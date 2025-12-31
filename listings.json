@@ -1,31 +1,5 @@
 [
   {
-    "listing": "/datasets.html",
-    "items": [
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/presentations.html",
-    "items": [
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/welcome/index.html",
-    "items": []
-  },
-  {
-    "listing": "/quotes.html",
-    "items": [
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
-    "listing": "/presentations/dados-vivos.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html",
@@ -33,15 +7,7 @@
     ]
   },
   {
-    "listing": "/about.html",
-    "items": [
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/til.html",
-    "items": [
-      "/posts/welcome/index.html"
-    ]
+    "items": []
   }
 ]
