@@ -14,7 +14,7 @@ project:
 website:
   title: "Everton Eduardo Colombo"
   description: "Personal Blog"
-  site-url: "https://evertoncolombo.github.io/blog"
+  site-url: "https://evertoncolombo.github.io/blog/"
   navbar:
     left:
       - text: "Posts"
