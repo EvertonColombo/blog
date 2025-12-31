@@ -10,6 +10,57 @@
 <atom:link href="https://evertoncolombo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 31 Dec 2025 15:05:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>RSS Feed Test</title>
+  <link>https://evertoncolombo.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This post was created specifically to test the RSS feed generation and integration with readers like Feedly.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-all-posts">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <category>news</category>
+  <guid>https://evertoncolombo.github.io/blog/posts/welcome/</guid>
+  <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dados Vivos, Arquivos Mortos: A Nova Interface do Trabalho</title>
+  <link>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="dados/index.html">Ver Apresentação (Slides)</a></p>
+<p>A presentation about Corporate Data, Agents, and the Model Context Protocol.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-all-posts">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <category>presentation</category>
+  <category>data</category>
+  <category>ai</category>
+  <guid>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</guid>
+  <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://evertoncolombo.github.io/blog/presentations/dados/assets/brasao.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 </channel>
 </rss>

@@ -17,6 +17,30 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 31 Dec 2025 15:05:06 GMT</lastBuildDate>
+<lastBuildDate>Wed, 31 Dec 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>RSS Feed Test</title>
+  <link>https://evertoncolombo.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This post was created specifically to test the RSS feed generation and integration with readers like Feedly.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-all-posts">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <category>news</category>
+  <guid>https://evertoncolombo.github.io/blog/posts/welcome/</guid>
+  <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
