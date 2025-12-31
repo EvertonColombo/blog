@@ -1,0 +1,15 @@
+---
+title: "Quote by Rupert Spira"
+date: "2025"
+categories: [quotes]
+---
+
+::: {.quote-container}
+::: {.quote-text}
+"You are more certain of the fact of knowing than of anything that you know. The known can always be doubted. This might not be a material world; it might not be the way it appears to be.
+But even if it is an illusion, the knowing by which that illusion is known must be real, because an unreal knowing or an unreal consciousness could not know anything."
+:::
+::: {.quote-author}
+— [Rupert Spira](https://rupertspira.com/)
+:::
+:::

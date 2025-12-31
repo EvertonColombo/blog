@@ -1,0 +1,14 @@
+---
+title: "Quote by Aaron Boodman"
+date: "2025"
+categories: [quotes]
+---
+
+::: {.quote-container}
+::: {.quote-text}
+"Claude doesn't make me much faster on the work that I am an expert on. Maybe 15-20% depending on the day. It's the work that I don't know how to do and would have to research. Or the grunge work I don't even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn't have done at all pre-Claude."
+:::
+::: {.quote-author}
+— [Aaron Boodman](https://x.com/aboodman/status/1982898753607741502)
+:::
+:::

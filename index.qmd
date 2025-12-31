@@ -5,6 +5,7 @@ listing:
     - posts
     - til
     - presentations
+    - quotes/posts
   feed:
     items: 50
     type: full

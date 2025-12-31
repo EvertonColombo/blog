@@ -21,7 +21,7 @@ website:
       - text: "Posts"
         href: index.qmd
       - text: "Quotes"
-        href: quotes.qmd
+        href: quotes/index.qmd
       - text: "Datasets"
         href: datasets.qmd
       - text: "Presentations"

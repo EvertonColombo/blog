@@ -1,0 +1,14 @@
+---
+title: "Quote by Ethan Mollick"
+date: "2025"
+categories: [quotes]
+---
+
+::: {.quote-container}
+::: {.quote-text}
+"A real gap between what people using chatbots can do and what even non-coders can do with today’s CLI-like tools that have access to their computers, the web & the ability to execute long-term plans. Big opportunity for the AI lab that gets powerful & safe personal agents right."
+:::
+::: {.quote-author}
+— [Ethan Mollick](https://www.oneusefulthing.org/)
+:::
+:::
