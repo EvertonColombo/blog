@@ -1,0 +1,10 @@
+# options specified here will apply to all TIL posts
+
+# freeze computational output
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: true
+
+# Disable individual post feeds
+feed: false

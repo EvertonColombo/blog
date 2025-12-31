@@ -1,0 +1,12 @@
+---
+title: "Datasets"
+description: "A hand-picked collection of datasets"
+page-layout: article
+format:
+  html:
+    toc: true
+---
+
+## Defect Detection
+
+[Kaputt Dataset](https://www.kaputt-dataset.com)<!-- Intentionally left blank for now. -->

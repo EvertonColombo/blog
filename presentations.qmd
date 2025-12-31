@@ -1,0 +1,10 @@
+---
+title: "Presentations"
+page-layout: full
+title-block-banner: true
+---
+
+### [Dados Vivos, ~~Arquivos Mortos~~: A Nova Interface do Trabalho](./presentations/dados/index.html)
+*Data: 08/26/2025*
+Dados Corporativos, Agentes, Model Context Protocol.
+---

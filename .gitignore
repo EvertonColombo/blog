@@ -1,0 +1,9 @@
+/.quarto/
+/_freeze/
+/.ipynb_checkpoints/
+/docs/
+/_site/
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user

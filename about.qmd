@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/EvertonColombo
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/EvertonColombo
+
+---
+
+About this blog
