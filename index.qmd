@@ -4,6 +4,7 @@ listing:
   contents:
     - posts
     - til
+    - presentations
   feed:
     items: 50
     type: full

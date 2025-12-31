@@ -1,0 +1,7 @@
+---
+title: "RSS Feed Test"
+date: "2025-12-31"
+categories: [news]
+---
+
+This post was created specifically to test the RSS feed generation and integration with readers like Feedly.

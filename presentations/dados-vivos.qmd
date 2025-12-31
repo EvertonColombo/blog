@@ -1,0 +1,11 @@
+---
+title: "Dados Vivos, Arquivos Mortos: A Nova Interface do Trabalho"
+date: "2025-08-26"
+categories: [presentation, data, ai]
+image: dados/assets/brasao.png
+description: "Dados Corporativos, Agentes, Model Context Protocol."
+---
+
+[Ver Apresentação (Slides)](dados/index.html)
+
+A presentation about Corporate Data, Agents, and the Model Context Protocol.
