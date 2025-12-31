@@ -36,6 +36,8 @@ website:
 
 format:
   html:
-    theme: Morph
+    theme:
+      light: morph
+      dark: cyborg
     toc: true
     css: styles.css
