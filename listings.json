@@ -1,30 +1,38 @@
 [
   {
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/augmented-intelligence.html",
+      "/presentations/dados-vivos.html"
+    ]
+  },
+  {
     "listing": "/quotes/index.html",
     "items": [
-      "/quotes/posts/2025-bjorn-ulvaeus.html",
-      "/quotes/posts/2025-rupert-spira.html",
       "/quotes/posts/2025-terence-tao.html",
-      "/quotes/posts/2025-aaron-boodman.html",
       "/quotes/posts/2025-ethan-mollick-2.html",
-      "/quotes/posts/2025-thomas-montine.html",
       "/quotes/posts/2025-andrej-karpathy.html",
-      "/quotes/posts/2025-ethan-mollick-1.html"
+      "/quotes/posts/2025-ethan-mollick-1.html",
+      "/quotes/posts/2025-aaron-boodman.html",
+      "/quotes/posts/2025-thomas-montine.html",
+      "/quotes/posts/2025-bjorn-ulvaeus.html",
+      "/quotes/posts/2025-rupert-spira.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
+      "/presentations/augmented-intelligence.html",
       "/posts/welcome/index.html",
+      "/quotes/posts/2025-terence-tao.html",
+      "/quotes/posts/2025-ethan-mollick-2.html",
+      "/quotes/posts/2025-andrej-karpathy.html",
+      "/quotes/posts/2025-ethan-mollick-1.html",
+      "/quotes/posts/2025-aaron-boodman.html",
+      "/quotes/posts/2025-thomas-montine.html",
       "/presentations/dados-vivos.html",
       "/quotes/posts/2025-bjorn-ulvaeus.html",
-      "/quotes/posts/2025-rupert-spira.html",
-      "/quotes/posts/2025-terence-tao.html",
-      "/quotes/posts/2025-aaron-boodman.html",
-      "/quotes/posts/2025-ethan-mollick-2.html",
-      "/quotes/posts/2025-thomas-montine.html",
-      "/quotes/posts/2025-andrej-karpathy.html",
-      "/quotes/posts/2025-ethan-mollick-1.html"
+      "/quotes/posts/2025-rupert-spira.html"
     ]
   },
   {

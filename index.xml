@@ -9,8 +9,161 @@
 <link>https://evertoncolombo.github.io/blog/</link>
 <atom:link href="https://evertoncolombo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 31 Dec 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 20 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Augmented Intelligence and the Future of Reality</title>
+  <link>https://evertoncolombo.github.io/blog/presentations/augmented-intelligence.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<style>
+  .slide-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 30px;
+    padding: 40px 0;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .slide-item {
+    display: block;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+    background: #000;
+  }
+
+  .slide-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+    z-index: 2;
+  }
+
+  .slide-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 16/9; /* Força proporção consistente na grid */
+  }
+
+  .slide-number {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    font-size: 0.8rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-weight: bold;
+    pointer-events: none;
+  }
+
+  /* Modal Styles */
+  .lightbox-modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.9);
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .lightbox-modal.active {
+    display: flex;
+    opacity: 1;
+  }
+
+  .lightbox-content {
+    max-width: 95%;
+    max-height: 95vh;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    border-radius: 4px;
+  }
+
+  .lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    user-select: none;
+  }
+</style>
+<div class="column-page">
+<div class="slide-grid">
+<p><a href="ai-assets/slides/1.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/1.jpg" loading="lazy"> <span class="slide-number">1</span> </a> <a href="ai-assets/slides/2.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/2.jpg" loading="lazy"> <span class="slide-number">2</span> </a> <a href="ai-assets/slides/3.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/3.jpg" loading="lazy"> <span class="slide-number">3</span> </a> <a href="ai-assets/slides/4.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/4.jpg" loading="lazy"> <span class="slide-number">4</span> </a> <a href="ai-assets/slides/5.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/5.jpg" loading="lazy"> <span class="slide-number">5</span> </a> <a href="ai-assets/slides/6.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/6.jpg" loading="lazy"> <span class="slide-number">6</span> </a> <a href="ai-assets/slides/7.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/7.jpg" loading="lazy"> <span class="slide-number">7</span> </a> <a href="ai-assets/slides/8.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/8.jpg" loading="lazy"> <span class="slide-number">8</span> </a> <a href="ai-assets/slides/9.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/9.jpg" loading="lazy"> <span class="slide-number">9</span> </a> <a href="ai-assets/slides/10.jpg" class="slide-item" onclick="openLightbox(event, this.href)"> <img src="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/10.jpg" loading="lazy"> <span class="slide-number">10</span> </a></p>
+</div>
+<div style="text-align: center; margin: 60px 0; padding: 40px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
+<h2 style="color: #666; font-style: italic; letter-spacing: 2px;" class="anchored">
+WORK IN PROGRESS
+</h2>
+<p style="color: #888; font-size: 1.1rem;">
+This presentation is currently under development. <br>More slides will be added soon.
+</p>
+<p style="color: #aaa; font-size: 0.9rem; margin-top: 25px; max-width: 600px; margin-left: auto; margin-right: auto;">
+<em>Note: Images were generated by Gemini Nano Banana Pro. Please be aware that AI-generated visuals may not always accurately reflect reality.</em>
+</p>
+</div>
+</div>
+<!-- Lightbox Modal HTML -->
+<div id="lightbox" class="lightbox-modal" onclick="closeLightbox()">
+<p><span class="lightbox-close">×</span> <img class="lightbox-content" id="lightbox-img"></p>
+</div>
+<script>
+  function openLightbox(event, src) {
+    event.preventDefault(); // Impede o link de abrir nova aba
+    const modal = document.getElementById('lightbox');
+    const img = document.getElementById('lightbox-img');
+    img.src = src;
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden'; // Bloqueia scroll do fundo
+  }
+
+  function closeLightbox() {
+    const modal = document.getElementById('lightbox');
+    modal.classList.remove('active');
+    document.body.style.overflow = 'auto'; // Libera scroll
+    // Limpa src após fechar para evitar flash na próxima abertura
+    setTimeout(() => { document.getElementById('lightbox-img').src = ''; }, 300);
+  }
+
+  // Fecha com ESC
+  document.addEventListener('keydown', function(event) {
+    if (event.key === "Escape") {
+      closeLightbox();
+    }
+  });
+</script>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <category>augmented-intelligence</category>
+  <category>future-of-reality</category>
+  <category>ai</category>
+  <guid>https://evertoncolombo.github.io/blog/presentations/augmented-intelligence.html</guid>
+  <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/1.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>RSS Feed Test</title>
   <link>https://evertoncolombo.github.io/blog/posts/welcome/</link>
@@ -31,78 +184,6 @@
   <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Dados Vivos, Arquivos Mortos: A Nova Interface do Trabalho</title>
-  <link>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><a href="dados/index.html">Ver Apresentação (Slides)</a></p>
-<p>A presentation about Corporate Data, Agents, and the Model Context Protocol.</p>
-
-
-
- ]]></description>
-  <category>presentation</category>
-  <category>data</category>
-  <category>ai</category>
-  <guid>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</guid>
-  <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://evertoncolombo.github.io/blog/presentations/dados/assets/brasao.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>Quote by Björn Ulvaeus</title>
-  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-bjorn-ulvaeus.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="quote-container">
-<div class="quote-text">
-<p>“[AI] is in no way a substitute for a songwriting partner,” he says. “No, it’s a tool. But it’s a great tool that never existed before, where you can reference anything in the world of music, and which you can use as a sounding board, and you can try new things on.” He continues: “For instance, when I’ve written something, maybe eight bars, I can record them with a lyric, and just ask it, where would you take me if you went into this or that realm of music? What would it sound like? Usually it comes back with garbage, but sometimes there is something that might point me in a new direction. “I can get in touch with my AI at any time. If I wake up in the middle of the night, I can try new things. Whenever you feel like it, whenever you have an idea, you can try it out with your AI partner.”</p>
-</div>
-<div class="quote-author">
-<p>— <a href="https://musictech.com/news/music/bjorn-ulvaeus-says-ai-is-unstoppable/#:~:text=“%5BAI%5D%20is%20in%20no,can%20try%20new%20things%20on.”">ABBA‘s Björn Ulvaeus</a></p>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>quotes</category>
-  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-bjorn-ulvaeus.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quote by Rupert Spira</title>
-  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-rupert-spira.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="quote-container">
-<div class="quote-text">
-<p>“You are more certain of the fact of knowing than of anything that you know. The known can always be doubted. This might not be a material world; it might not be the way it appears to be. But even if it is an illusion, the knowing by which that illusion is known must be real, because an unreal knowing or an unreal consciousness could not know anything.”</p>
-</div>
-<div class="quote-author">
-<p>— <a href="https://rupertspira.com/">Rupert Spira</a></p>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>quotes</category>
-  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-rupert-spira.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
   <title>Quote by Terence Tao</title>
   <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-terence-tao.html</link>
   <description><![CDATA[ 
@@ -116,7 +197,7 @@
 <p>“I doubt that anything resembling genuine”artificial general intelligence” is within reach of current #AI tools. However, I think a weaker, but still quite valuable, type of “artificial general cleverness” is becoming a reality in various ways.”</p>
 </div>
 <div class="quote-author">
-<p>— <a href="https://mathstodon.xyz/@tao">Terence Tao</a></p>
+<p>— <a href="https://mathstodon.xyz/@tao/115722360006034040">Terence Tao</a></p>
 </div>
 </div>
 
@@ -125,32 +206,7 @@
  ]]></description>
   <category>quotes</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-terence-tao.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quote by Aaron Boodman</title>
-  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-aaron-boodman.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="quote-container">
-<div class="quote-text">
-<p>“Claude doesn’t make me much faster on the work that I am an expert on. Maybe 15-20% depending on the day. It’s the work that I don’t know how to do and would have to research. Or the grunge work I don’t even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn’t have done at all pre-Claude.”</p>
-</div>
-<div class="quote-author">
-<p>— <a href="https://x.com/aboodman/status/1982898753607741502">Aaron Boodman</a></p>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>quotes</category>
-  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-aaron-boodman.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Quote by Ethan Mollick</title>
@@ -175,32 +231,7 @@
  ]]></description>
   <category>quotes</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-ethan-mollick-2.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Quote by Thomas Montine</title>
-  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-thomas-montine.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="quote-container">
-<div class="quote-text">
-<p>“We should create a human-in-the-loop AI that would help our pathologists be better at reaching the diagnosis, not tell them what the diagnosis is.”</p>
-</div>
-<div class="quote-author">
-<p>— <a href="https://stanmed.stanford.edu/digitizing-pathology-samples-better-analysis/09/ai-tool-pathologists.html">Thomas Montine, MD, PhD, Chair, Department of Pathology at Stanford University</a></p>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>quotes</category>
-  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-thomas-montine.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Quote by Andrej Karpathy</title>
@@ -217,7 +248,7 @@
 <p>On the flip side, if you’re a writer trying to explain/communicate something, we may increasingly see less of a mindset of “I’m writing this for another human” and more “I’m writing this for an LLM”. Because once an LLM “gets it”, it can then target, personalize and serve the idea to its user.”</p>
 </div>
 <div class="quote-author">
-<p>— <a href="https://twitter.com/karpathy">Andrej Karpathy</a></p>
+<p>— <a href="https://x.com/karpathy/status/1990577951671509438">Andrej Karpathy</a></p>
 </div>
 </div>
 
@@ -226,7 +257,7 @@
  ]]></description>
   <category>quotes</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-andrej-karpathy.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Quote by Ethan Mollick</title>
@@ -242,7 +273,7 @@
 <p>“A real gap between what people using chatbots can do and what even non-coders can do with today’s CLI-like tools that have access to their computers, the web &amp; the ability to execute long-term plans. Big opportunity for the AI lab that gets powerful &amp; safe personal agents right.”</p>
 </div>
 <div class="quote-author">
-<p>— <a href="https://www.oneusefulthing.org/">Ethan Mollick</a></p>
+<p>— <a href="https://x.com/emollick/status/1983710105704276289">Ethan Mollick</a></p>
 </div>
 </div>
 
@@ -251,7 +282,132 @@
  ]]></description>
   <category>quotes</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-ethan-mollick-1.html</guid>
-  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quote by Aaron Boodman</title>
+  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-aaron-boodman.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quote-container">
+<div class="quote-text">
+<p>“Claude doesn’t make me much faster on the work that I am an expert on. Maybe 15-20% depending on the day. It’s the work that I don’t know how to do and would have to research. Or the grunge work I don’t even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn’t have done at all pre-Claude.”</p>
+</div>
+<div class="quote-author">
+<p>— <a href="https://x.com/aboodman/status/1982898753607741502">Aaron Boodman</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>quotes</category>
+  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-aaron-boodman.html</guid>
+  <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quote by Thomas Montine</title>
+  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-thomas-montine.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quote-container">
+<div class="quote-text">
+<p>“We should create a human-in-the-loop AI that would help our pathologists be better at reaching the diagnosis, not tell them what the diagnosis is.”</p>
+</div>
+<div class="quote-author">
+<p>— <a href="https://med.stanford.edu/news/all-news/2025/09/ai-tool-pathology.html">Thomas Montine, MD, PhD, Chair, Department of Pathology at Stanford University</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>quotes</category>
+  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-thomas-montine.html</guid>
+  <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Dados Vivos, Arquivos Mortos: A Nova Interface do Trabalho</title>
+  <link>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><a href="dados/index.html">Ver Apresentação (Slides)</a></p>
+<p>A presentation about Corporate Data, Agents, and the Model Context Protocol.</p>
+
+
+
+ ]]></description>
+  <category>presentation</category>
+  <category>mcp</category>
+  <category>agents</category>
+  <category>corporate-data</category>
+  <category>automation</category>
+  <category>semantic-interface</category>
+  <guid>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</guid>
+  <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://evertoncolombo.github.io/blog/presentations/dados/assets/thumbnail.png" medium="image" type="image/png" height="79" width="144"/>
+</item>
+<item>
+  <title>Quote by Björn Ulvaeus</title>
+  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-bjorn-ulvaeus.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quote-container">
+<div class="quote-text">
+<p>“[AI] is in no way a substitute for a songwriting partner,” he says. “No, it’s a tool. But it’s a great tool that never existed before, where you can reference anything in the world of music, and which you can use as a sounding board, and you can try new things on.” He continues: “For instance, when I’ve written something, maybe eight bars, I can record them with a lyric, and just ask it, where would you take me if you went into this or that realm of music? What would it sound like? Usually it comes back with garbage, but sometimes there is something that might point me in a new direction. “I can get in touch with my AI at any time. If I wake up in the middle of the night, I can try new things. Whenever you feel like it, whenever you have an idea, you can try it out with your AI partner.”</p>
+</div>
+<div class="quote-author">
+<p>— <a href="https://musictech.com/news/music/bjorn-ulvaeus-says-ai-is-unstoppable/#:~:text=“%5BAI%5D%20is%20in%20no,can%20try%20new%20things%20on.”">ABBA‘s Björn Ulvaeus</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>quotes</category>
+  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-bjorn-ulvaeus.html</guid>
+  <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Quote by Rupert Spira</title>
+  <link>https://evertoncolombo.github.io/blog/quotes/posts/2025-rupert-spira.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quote-container">
+<div class="quote-text">
+<p>“You are more certain of the fact of knowing than of anything that you know. The known can always be doubted. This might not be a material world; it might not be the way it appears to be. But even if it is an illusion, the knowing by which that illusion is known must be real, because an unreal knowing or an unreal consciousness could not know anything.”</p>
+</div>
+<div class="quote-author">
+<p>— <a href="https://www.youtube.com/watch?v=RUy8Pkpixm4">Rupert Spira</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>quotes</category>
+  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-rupert-spira.html</guid>
+  <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
