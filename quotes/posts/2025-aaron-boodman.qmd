@@ -1,6 +1,6 @@
 ---
 title: "Quote by Aaron Boodman"
-date: "2025"
+date: "10/27/2025"
 categories: [quotes]
 ---
 

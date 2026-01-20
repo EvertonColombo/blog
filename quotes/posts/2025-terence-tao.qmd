@@ -1,6 +1,6 @@
 ---
 title: "Quote by Terence Tao"
-date: "2025"
+date: "12/15/2025"
 categories: [quotes]
 ---
 
@@ -9,6 +9,6 @@ categories: [quotes]
 "I doubt that anything resembling genuine "artificial general intelligence" is within reach of current #AI tools.  However, I think a weaker, but still quite valuable, type of "artificial general cleverness" is becoming a reality in various ways."
 :::
 ::: {.quote-author}
-— [Terence Tao](https://mathstodon.xyz/@tao)
+— [Terence Tao](https://mathstodon.xyz/@tao/115722360006034040)
 :::
 :::

@@ -1,6 +1,6 @@
 ---
 title: "Quote by Andrej Karpathy"
-date: "2025"
+date: "11/17/2025"
 categories: [quotes]
 ---
 
@@ -11,6 +11,6 @@ categories: [quotes]
 On the flip side, if you’re a writer trying to explain/communicate something, we may increasingly see less of a mindset of “I’m writing this for another human” and more “I’m writing this for an LLM”. Because once an LLM “gets it”, it can then target, personalize and serve the idea to its user."
 :::
 ::: {.quote-author}
-— [Andrej Karpathy](https://twitter.com/karpathy)
+— [Andrej Karpathy](https://x.com/karpathy/status/1990577951671509438)
 :::
 :::

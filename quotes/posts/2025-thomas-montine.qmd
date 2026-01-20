@@ -1,6 +1,6 @@
 ---
 title: "Quote by Thomas Montine"
-date: "2025"
+date: "09/19/2025"
 categories: [quotes]
 ---
 
@@ -9,6 +9,6 @@ categories: [quotes]
 "We should create a human-in-the-loop AI that would help our pathologists be better at reaching the diagnosis, not tell them what the diagnosis is."
 :::
 ::: {.quote-author}
-— [Thomas Montine, MD, PhD, Chair, Department of Pathology at Stanford University](https://stanmed.stanford.edu/digitizing-pathology-samples-better-analysis/09/ai-tool-pathologists.html)
+— [Thomas Montine, MD, PhD, Chair, Department of Pathology at Stanford University](https://med.stanford.edu/news/all-news/2025/09/ai-tool-pathology.html)
 :::
 :::

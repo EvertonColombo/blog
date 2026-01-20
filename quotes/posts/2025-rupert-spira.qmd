@@ -1,6 +1,6 @@
 ---
 title: "Quote by Rupert Spira"
-date: "2025"
+date: "04/10/2025"
 categories: [quotes]
 ---
 
@@ -10,6 +10,6 @@ categories: [quotes]
 But even if it is an illusion, the knowing by which that illusion is known must be real, because an unreal knowing or an unreal consciousness could not know anything."
 :::
 ::: {.quote-author}
-— [Rupert Spira](https://rupertspira.com/)
+— [Rupert Spira](https://www.youtube.com/watch?v=RUy8Pkpixm4)
 :::
 :::

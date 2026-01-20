@@ -1,6 +1,6 @@
 ---
 title: "Quote by Björn Ulvaeus"
-date: "2025"
+date: "07/14/2025"
 categories: [quotes]
 ---
 

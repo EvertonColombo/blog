@@ -1,6 +1,6 @@
 ---
 title: "Quote by Ethan Mollick"
-date: "2025"
+date: "11/18/2025"
 categories: [quotes]
 ---
 
