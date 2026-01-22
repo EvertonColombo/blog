@@ -13,4 +13,4 @@ about:
 
 ---
 
-About this blog
+About this blog. Check the [Feed](index.qmd) for latest posts.
