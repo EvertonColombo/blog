@@ -10,7 +10,42 @@
 <atom:link href="https://evertoncolombo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 21 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 22 Jan 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>How AI Agents Turn Work Processes Into Intelligence</title>
+  <dc:creator>Everton Colombo</dc:creator>
+  <link>https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><img src="https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/2026-01-22-ai-agents-work-processes.png" class="img-fluid"></p>
+<p>To understand the true power of autonomous agents, we first need to redefine what we call a “Skill.” Following Anthropic’s definition, “Skills are reusable, filesystem-based resources that provide Claude with domain-specific expertise: workflows, context, and best practices that transform general-purpose agents into specialists. Unlike prompts (conversation-level instructions for one-off tasks), Skills load on-demand and eliminate the need to repeatedly provide the same guidance across multiple conversations.”</p>
+<p>But in practice, they are even more than that: the SKILL.md file represents the living, breathing history of your work—whether you are running a global team or a one-person operation.</p>
+<p>By structuring a Skill, you aren’t just giving operational instructions; you are creating version control for your expertise. It is a tangible way to visualize how your methodology has been refined over the years, ensuring that tacit knowledge isn’t lost but rather preserved as a legacy.</p>
+<p>This living documentation serves a powerful dual purpose:</p>
+<p>Scaling &amp; Onboarding: For companies, new hires integrate faster because they have an agent that knows the process and answers repetitive questions, freeing up experts. For independent professionals, this transforms your personal expertise into a scalable asset, allowing you to deliver complex work without being the constant bottleneck.</p>
+<p>AI Training: The same material serves to increase collective intelligence, teaching agents the nuances, the tone, and the unique “way of operating” that defines your brand.</p>
+<p>This documentation augments the capacity of both the agent and the worker in a truly collaborative process. Often, the best way to elevate an agent’s capability isn’t to give rigid orders immediately, but to observe its “default mode” and refine from there.</p>
+<p>To enter the AI era, you don’t need a massive R&amp;D department. You can start today simply by documenting your workflows step-by-step.</p>
+<p>But the future holds more. With the advancement of spatial and multimodal intelligence, soon we won’t just be documenting text. We are moving toward a future where AI will analyze video and physical movement to learn manual and operational tasks, transferring the “muscle memory” of human work to robots and physical systems.</p>
+<p>Make no mistake: this is not exclusive to big tech. If you use a computer to work, you will see exponential results with agents.</p>
+<p>The only difference is that experienced developers already know how to leverage these tools to their full potential.</p>
+
+
+
+ ]]></description>
+  <category>agents</category>
+  <category>ai</category>
+  <category>skills</category>
+  <category>version-control</category>
+  <guid>https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/</guid>
+  <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/2026-01-22-ai-agents-work-processes.png" medium="image" type="image/png" height="79" width="144"/>
+</item>
 <item>
   <title>3D Maps of the Universe</title>
   <link>https://evertoncolombo.github.io/blog/quotes/posts/2026-the-seeds-of-science.html</link>
@@ -189,25 +224,6 @@ This presentation is currently under development. <br>More slides will be added 
   <guid>https://evertoncolombo.github.io/blog/presentations/augmented-intelligence.html</guid>
   <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>RSS Feed Test</title>
-  <link>https://evertoncolombo.github.io/blog/posts/welcome/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<p>This post was created specifically to test the RSS feed generation and integration with readers like Feedly.</p>
-
-
-
- ]]></description>
-  <category>news</category>
-  <guid>https://evertoncolombo.github.io/blog/posts/welcome/</guid>
-  <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Quote by Terence Tao</title>
