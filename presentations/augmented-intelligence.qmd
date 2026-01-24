@@ -140,6 +140,26 @@ page-layout: full
     <img src="ai-assets/slides/10.jpg" loading="lazy">
     <span class="slide-number">10</span>
   </a>
+  <a href="ai-assets/slides/11.jpg" class="slide-item" onclick="openLightbox(event, this.href)">
+    <img src="ai-assets/slides/11.jpg" loading="lazy">
+    <span class="slide-number">11</span>
+  </a>
+  <a href="ai-assets/slides/12.jpg" class="slide-item" onclick="openLightbox(event, this.href)">
+    <img src="ai-assets/slides/12.jpg" loading="lazy">
+    <span class="slide-number">12</span>
+  </a>
+  <a href="ai-assets/slides/13.jpg" class="slide-item" onclick="openLightbox(event, this.href)">
+    <img src="ai-assets/slides/13.jpg" loading="lazy">
+    <span class="slide-number">13</span>
+  </a>
+  <a href="ai-assets/slides/14.jpg" class="slide-item" onclick="openLightbox(event, this.href)">
+    <img src="ai-assets/slides/14.jpg" loading="lazy">
+    <span class="slide-number">14</span>
+  </a>
+  <a href="ai-assets/slides/15.jpg" class="slide-item" onclick="openLightbox(event, this.href)">
+    <img src="ai-assets/slides/15.jpg" loading="lazy">
+    <span class="slide-number">15</span>
+  </a>
 </div>
 
 <div style="text-align: center; margin: 60px 0; padding: 40px; border-top: 1px solid #eee; border-bottom: 1px solid #eee;">
