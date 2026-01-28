@@ -22,10 +22,6 @@ AI Training: The same material serves to increase collective intelligence, teach
 
 This documentation augments the capacity of both the agent and the worker in a truly collaborative process. Often, the best way to elevate an agent's capability isn't to give rigid orders immediately, but to observe its "default mode" and refine from there.
 
-To enter the AI era, you don't need a massive R&D department. You can start today simply by documenting your workflows step-by-step.
-
-But the future holds more. With the advancement of spatial and multimodal intelligence, soon we won't just be documenting text. We are moving toward a future where AI will analyze video and physical movement to learn manual and operational tasks, transferring the "muscle memory" of human work to robots and physical systems.
-
-Make no mistake: this is not exclusive to big tech. If you use a computer to work, you will see exponential results with agents.
-
-The only difference is that experienced developers already know how to leverage these tools to their full potential.
+Entering the AI era doesn’t require complex infrastructure. You can start today simply by documenting your workflows step-by-step.
+But the horizon is broader. With the rise of spatial and multimodal intelligence, soon we won’t just be documenting words. We are moving toward a future where AI will analyze video and physical movement to learn manual and operational tasks, transferring the “muscle memory” of human work to physical systems.
+Make no mistake: this power is not reserved for industry giants. If you use a computer to work, you can achieve exponential results with agents. But accessibility doesn’t mean simplicity. The possibilities are so vast that they challenge even the most updated experts. In this rapidly evolving landscape, having an experienced guide is the only way to ensure you are actually leveraging these tools, rather than just being overwhelmed by them.
