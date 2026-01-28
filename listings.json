@@ -9,6 +9,7 @@
   {
     "listing": "/quotes/index.html",
     "items": [
+      "/quotes/posts/2026-matt-damon.html",
       "/quotes/posts/2026-the-seeds-of-science.html",
       "/quotes/posts/2025-terence-tao.html",
       "/quotes/posts/2025-ethan-mollick-2.html",
@@ -23,6 +24,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/quotes/posts/2026-matt-damon.html",
       "/posts/2026-01-22-ai-agents-work-processes/index.html",
       "/quotes/posts/2026-the-seeds-of-science.html",
       "/presentations/augmented-intelligence.html",
