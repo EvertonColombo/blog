@@ -23,8 +23,15 @@
     ]
   },
   {
+    "listing": "/watch/index.html",
+    "items": [
+      "/watch/posts/2026-02-01-ai-lyrics.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/watch/posts/2026-02-01-ai-lyrics.html",
       "/quotes/posts/2026-engadget.html",
       "/quotes/posts/2026-matt-damon.html",
       "/posts/2026-01-22-ai-agents-work-processes/index.html",

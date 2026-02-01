@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Everton Eduardo Colombo</title>
+<link>https://evertoncolombo.github.io/blog/watch/</link>
+<atom:link href="https://evertoncolombo.github.io/blog/watch/index.xml" rel="self" type="application/rss+xml"/>
+<description>Personal Blog</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sun, 01 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Lyrics</title>
+  <link>https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_cXu7_UFxNk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+
+ ]]></description>
+  <guid>https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.html</guid>
+  <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

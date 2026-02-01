@@ -10,7 +10,24 @@
 <atom:link href="https://evertoncolombo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sat, 31 Jan 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>AI Lyrics</title>
+  <link>https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/_cXu7_UFxNk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+
+ ]]></description>
+  <guid>https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.html</guid>
+  <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Claude’s Major Feat</title>
   <link>https://evertoncolombo.github.io/blog/quotes/posts/2026-engadget.html</link>
