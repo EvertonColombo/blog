@@ -1,0 +1,19 @@
+---
+title: "Consulting"
+---
+
+I offer specialized consulting services in Artificial Intelligence, focusing on agentic workflows, data strategy, and spatial intelligence — including Virtual/Augmented Reality (VR/AR), 3D, and other immersive experiences. 
+
+If you are looking to leverage AI to optimize your business processes or explore the frontier of immersive computing, let's talk.
+
+### Get in Touch
+
+```{=html}
+<div style="margin-top: 20px;">
+<button class="btn btn-primary btn-lg" 
+        onclick="window.location.href = 'mailto:' + 'consulting.phonics633' + '@' + 'aleeas.com' + '?subject=Consulting%20Inquiry'" 
+        style="cursor: pointer;">
+    ✉️ Inquire about Consulting
+</button>
+</div>
+```

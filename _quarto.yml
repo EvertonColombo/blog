@@ -26,8 +26,12 @@ website:
         href: datasets.qmd
       - text: "Presentations"
         href: presentations.qmd
+      - text: "Watch"
+        href: watch/index.qmd
       - text: "TIL"
         href: til.qmd
+      - text: "Consulting"
+        href: consulting.qmd
     right:
       - about.qmd
       - icon: rss
