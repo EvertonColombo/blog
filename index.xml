@@ -10,7 +10,27 @@
 <atom:link href="https://evertoncolombo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Sun, 01 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Money as a Biological Characteristic</title>
+  <link>https://evertoncolombo.github.io/blog/watch/posts/2026-02-02-money-biological-characteristic.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/3MGzyte9Msk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+
+
+
+ ]]></description>
+  <category>AI</category>
+  <category>Future</category>
+  <category>Technology</category>
+  <guid>https://evertoncolombo.github.io/blog/watch/posts/2026-02-02-money-biological-characteristic.html</guid>
+  <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>AI Lyrics</title>
   <link>https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.html</link>
@@ -25,6 +45,8 @@
 
 
  ]]></description>
+  <category>AI</category>
+  <category>Music</category>
   <guid>https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.html</guid>
   <pubDate>Sun, 01 Feb 2026 00:00:00 GMT</pubDate>
 </item>
@@ -49,7 +71,10 @@
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Space</category>
+  <category>Agents</category>
+  <category>AI</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2026-engadget.html</guid>
   <pubDate>Sat, 31 Jan 2026 00:00:00 GMT</pubDate>
 </item>
@@ -74,7 +99,8 @@
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Culture</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2026-matt-damon.html</guid>
   <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 </item>
@@ -103,10 +129,9 @@
 
 
  ]]></description>
-  <category>agents</category>
-  <category>ai</category>
-  <category>skills</category>
-  <category>version-control</category>
+  <category>Agents</category>
+  <category>AI</category>
+  <category>Work</category>
   <guid>https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/</guid>
   <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/2026-01-22-ai-agents-work-processes.png" medium="image" type="image/png" height="79" width="144"/>
@@ -133,7 +158,8 @@
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Space</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2026-the-seeds-of-science.html</guid>
   <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
 </item>
@@ -282,10 +308,10 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>presentation</category>
-  <category>augmented-intelligence</category>
-  <category>future-of-reality</category>
-  <category>ai</category>
+  <category>Presentation</category>
+  <category>AI</category>
+  <category>Future</category>
+  <category>Philosophy</category>
   <guid>https://evertoncolombo.github.io/blog/presentations/augmented-intelligence.html</guid>
   <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://evertoncolombo.github.io/blog/presentations/ai-assets/slides/1.jpg" medium="image" type="image/jpeg"/>
@@ -311,7 +337,8 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>AI</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-terence-tao.html</guid>
   <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
 </item>
@@ -336,7 +363,10 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Agents</category>
+  <category>Work</category>
+  <category>AI</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-ethan-mollick-2.html</guid>
   <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
 </item>
@@ -362,7 +392,10 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>AI</category>
+  <category>Learning</category>
+  <category>Future</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-andrej-karpathy.html</guid>
   <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
 </item>
@@ -387,7 +420,10 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Agents</category>
+  <category>Technology</category>
+  <category>AI</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-ethan-mollick-1.html</guid>
   <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
 </item>
@@ -412,7 +448,9 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>AI</category>
+  <category>Work</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-aaron-boodman.html</guid>
   <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
 </item>
@@ -437,7 +475,9 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Healthcare</category>
+  <category>AI</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-thomas-montine.html</guid>
   <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 </item>
@@ -456,12 +496,10 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>presentation</category>
-  <category>mcp</category>
-  <category>agents</category>
-  <category>corporate-data</category>
-  <category>automation</category>
-  <category>semantic-interface</category>
+  <category>Presentation</category>
+  <category>AI</category>
+  <category>Agents</category>
+  <category>Automation</category>
   <guid>https://evertoncolombo.github.io/blog/presentations/dados-vivos.html</guid>
   <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
   <media:content url="https://evertoncolombo.github.io/blog/presentations/dados/assets/thumbnail.png" medium="image" type="image/png" height="79" width="144"/>
@@ -487,7 +525,9 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Music</category>
+  <category>AI</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-bjorn-ulvaeus.html</guid>
   <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 </item>
@@ -512,7 +552,8 @@ This presentation is currently under development. <br>More slides will be added 
 
 
  ]]></description>
-  <category>quotes</category>
+  <category>Quotes</category>
+  <category>Philosophy</category>
   <guid>https://evertoncolombo.github.io/blog/quotes/posts/2025-rupert-spira.html</guid>
   <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
 </item>
