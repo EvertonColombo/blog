@@ -1,7 +1,7 @@
 ---
 title: "Quote by Andrej Karpathy"
 date: "11/17/2025"
-categories: [quotes]
+categories: [Quotes, AI, Learning, Future]
 ---
 
 ::: {.quote-container}

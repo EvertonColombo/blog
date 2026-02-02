@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence and the Future of Reality"
 date: "2026-01-20"
-categories: [presentation, augmented-intelligence, future-of-reality, ai]
+categories: [Presentation, AI, Future, Philosophy]
 image: ai-assets/slides/1.jpg
 resources:
   - "ai-assets/slides/*.jpg"

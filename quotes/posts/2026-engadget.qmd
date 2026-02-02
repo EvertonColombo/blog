@@ -1,7 +1,7 @@
 ---
 title: "Claude's Major Feat"
 date: "01/31/2026"
-categories: [quotes]
+categories: [Quotes, Space, Agents, AI]
 ---
 
 ::: {.quote-container}

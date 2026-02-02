@@ -2,7 +2,7 @@
 title: "How AI Agents Turn Work Processes Into Intelligence"
 author: "Everton Colombo"
 date: "2026-01-22"
-categories: [agents, ai, skills, version-control]
+categories: [Agents, AI, Work]
 image: 2026-01-22-ai-agents-work-processes.png
 ---
 

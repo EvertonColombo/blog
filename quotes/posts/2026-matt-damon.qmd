@@ -1,7 +1,7 @@
 ---
 title: "Quote by Matt Damon"
 date: "01/28/2026"
-categories: [quotes]
+categories: [Quotes, Culture]
 ---
 
 ::: {.quote-container}

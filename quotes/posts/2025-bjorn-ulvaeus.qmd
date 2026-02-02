@@ -1,7 +1,7 @@
 ---
 title: "Quote by Björn Ulvaeus"
 date: "07/14/2025"
-categories: [quotes]
+categories: [Quotes, Music, AI]
 ---
 
 ::: {.quote-container}

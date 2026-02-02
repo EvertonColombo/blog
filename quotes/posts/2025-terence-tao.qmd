@@ -1,7 +1,7 @@
 ---
 title: "Quote by Terence Tao"
 date: "12/15/2025"
-categories: [quotes]
+categories: [Quotes, AI]
 ---
 
 ::: {.quote-container}

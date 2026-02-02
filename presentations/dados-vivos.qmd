@@ -1,7 +1,7 @@
 ---
 title: "Dados Vivos, Arquivos Mortos: A Nova Interface do Trabalho"
 date: "2025-08-26"
-categories: [presentation, mcp, agents, corporate-data, automation, semantic-interface]
+categories: [Presentation, AI, Agents, Automation]
 image: dados/assets/thumbnail.png
 description: "Dados Corporativos, Agentes, Model Context Protocol."
 ---

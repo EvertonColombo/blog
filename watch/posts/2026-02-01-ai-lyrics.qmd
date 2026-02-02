@@ -1,6 +1,7 @@
 ---
 title: "AI Lyrics"
 date: "2026-02-01"
+categories: [AI, Music]
 ---
 
 {{< video https://www.youtube.com/watch?v=_cXu7_UFxNk >}}
