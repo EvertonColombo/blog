@@ -10,7 +10,34 @@
 <atom:link href="https://evertoncolombo.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 04 Feb 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Quote by Eric Topol</title>
+  <link>https://evertoncolombo.github.io/blog/quotes/posts/2026-eric-topol.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quote-container">
+<div class="quote-text">
+<p>“Mammography with AI support has emerged as the most rigorously studied of all possible indications. It is a standout for demonstrating superhuman performance—“digital eyes”— that see things which humans can’t. I believe the data we now have is compelling and should set the stage for a new standard of care. As I’ve reviewed, there are multiple obstacles that are holding us back, but it all goes back to why aren’t we providing all women with the best information available on their risk, early detection, and potential prevention of breast cancer and, no less, that of heart disease? If not now, then when?”</p>
+</div>
+<div class="quote-author">
+<p>— <a href="https://erictopol.substack.com/p/why-all-mammograms-should-incorporate">Eric Topol</a>, 02/08/2026</p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Quotes</category>
+  <category>Healthcare</category>
+  <category>AI</category>
+  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2026-eric-topol.html</guid>
+  <pubDate>Sun, 08 Feb 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Claude at Williams F1</title>
   <link>https://evertoncolombo.github.io/blog/quotes/posts/2026-williams-f1.html</link>
