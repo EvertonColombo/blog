@@ -4,7 +4,6 @@ listing:
   contents:
     - posts
     - til
-    - presentations
     - quotes/posts
   feed:
     items: 50

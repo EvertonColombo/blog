@@ -1,15 +1,5 @@
 project:
   type: website
-  resources:
-    - "presentations/**/assets/**"
-    - "presentations/**/*.png"
-    - "presentations/**/*.jpg"
-    - "presentations/**/*.jpeg"
-    - "presentations/**/*.gif"
-    - "presentations/**/*.pdf"
-    - "presentations/**/*.mp4"
-    - "presentations/**/*.webm"
-    - "presentations/**/*.wav"
 
 website:
   title: "Everton Eduardo Colombo"
@@ -24,8 +14,6 @@ website:
         href: quotes/index.qmd
       - text: "Datasets"
         href: datasets.qmd
-      - text: "Presentations"
-        href: presentations.qmd
       - text: "Watch"
         href: watch/index.qmd
       - text: "TIL"
