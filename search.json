@@ -1,5 +1,89 @@
 [
   {
+    "objectID": "til.html",
+    "href": "til.html",
+    "title": "Today I Learned",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "quotes/posts/2025-ethan-mollick-2.html",
+    "href": "quotes/posts/2025-ethan-mollick-2.html",
+    "title": "Quote by Ethan Mollick",
+    "section": "",
+    "text": "“Three years ago, we were impressed that a machine could write a poem about otters. Less than 1,000 days later, I am debating statistical methodology with an agent that built its own research environment. The era of the chatbot is turning into the era of the digital coworker. To be very clear, Gemini 3 isn’t perfect, and it still needs a manager who can guide and check it. But it suggests that “human in the loop” is evolving from “human who fixes AI mistakes” to “human who directs AI work.” And that may be the biggest change since the release of ChatGPT.”\n\n\n— Ethan Mollick"
+  },
+  {
+    "objectID": "quotes/posts/2026-matt-damon.html",
+    "href": "quotes/posts/2026-matt-damon.html",
+    "title": "Quote by Matt Damon",
+    "section": "",
+    "text": "“Um, and now they’re, you know, they’re like: ‘Can we get a big one in the first five minutes to get somebody?’ You know, we want people to stay tuned in and… it wouldn’t be terrible if you reiterated the plot three or four times in the dialogue because people are on their phones while they’re watching. You know what I mean?”\n\n\n— Matt Damon, 01/16/2026"
+  },
+  {
+    "objectID": "quotes/posts/2026-williams-f1.html",
+    "href": "quotes/posts/2026-williams-f1.html",
+    "title": "Claude at Williams F1",
+    "section": "",
+    "text": "“Claude will be integrated across the entire Williams organisation, working alongside engineers and team strategists to support how the team thinks, plans, and performs across race strategy, car development, and operations. With Formula 1 entering its biggest regulatory change in a generation, Claude will support the team’s ability to make the improvements that count.”\n\n\n— Williams F1, 02/02/2026"
+  },
+  {
+    "objectID": "quotes/posts/2026-the-seeds-of-science.html",
+    "href": "quotes/posts/2026-the-seeds-of-science.html",
+    "title": "3D Maps of the Universe",
+    "section": "",
+    "text": "“In the late 1970s, large-scale redshift measurements of galaxies – tracking how far their visible light shifted into the red as they moved away from us – allowed us to map the universe with depth for the first time. Before this, our maps were essentially 2D, like a sheet of paper, with near and far objects overlapping; we had no way of knowing if a vast empty space separated them.\nBut with these new 3D maps, we discovered that over 90% of all stars, galaxies, and gas are crammed into just 20% of the universe. In fact, the majority of stars and galaxies by mass are packed into the dense regions we call clusters and superclusters, which occupy less than 1% of the universe’s volume. These clusters form dense nodes, connected by filaments along which gas appears to travel in massive flows.”\n\n\n— The Seeds of Science"
+  },
+  {
+    "objectID": "quotes/posts/2025-terence-tao.html",
+    "href": "quotes/posts/2025-terence-tao.html",
+    "title": "Quote by Terence Tao",
+    "section": "",
+    "text": "“I doubt that anything resembling genuine”artificial general intelligence” is within reach of current #AI tools. However, I think a weaker, but still quite valuable, type of “artificial general cleverness” is becoming a reality in various ways.”\n\n\n— Terence Tao"
+  },
+  {
+    "objectID": "quotes/posts/2025-bjorn-ulvaeus.html",
+    "href": "quotes/posts/2025-bjorn-ulvaeus.html",
+    "title": "Quote by Björn Ulvaeus",
+    "section": "",
+    "text": "“[AI] is in no way a substitute for a songwriting partner,” he says. “No, it’s a tool. But it’s a great tool that never existed before, where you can reference anything in the world of music, and which you can use as a sounding board, and you can try new things on.” He continues: “For instance, when I’ve written something, maybe eight bars, I can record them with a lyric, and just ask it, where would you take me if you went into this or that realm of music? What would it sound like? Usually it comes back with garbage, but sometimes there is something that might point me in a new direction. “I can get in touch with my AI at any time. If I wake up in the middle of the night, I can try new things. Whenever you feel like it, whenever you have an idea, you can try it out with your AI partner.”\n\n\n— ABBA‘s Björn Ulvaeus"
+  },
+  {
+    "objectID": "quotes/index.html",
+    "href": "quotes/index.html",
+    "title": "Quotes",
+    "section": "",
+    "text": "A collection of thoughtful quotes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Eric Topol\n\n\n\n\n\n\n\n\nFeb 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude at Williams F1\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude’s Major Feat\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Matt Damon\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n3D Maps of the Universe\n\n\n\n\n\n\n\n\nJan 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Terence Tao\n\n\n\n\n\n\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Andrej Karpathy\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\n\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Aaron Boodman\n\n\n\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Thomas Montine\n\n\n\n\n\n\n\n\nSep 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Björn Ulvaeus\n\n\n\n\n\n\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Rupert Spira\n\n\n\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "watch/index.html",
+    "href": "watch/index.html",
+    "title": "Watch",
+    "section": "",
+    "text": "A collection of interesting videos and visual insights.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMoney as a Biological Characteristic\n\n\n\n\n\n\n\n\nFeb 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI Lyrics\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-01-22-ai-agents-work-processes/index.html",
+    "href": "posts/2026-01-22-ai-agents-work-processes/index.html",
+    "title": "How AI Agents Turn Work Processes Into Intelligence",
+    "section": "",
+    "text": "To understand the true power of autonomous agents, we first need to redefine what we call a “Skill.” Following Anthropic’s definition, “Skills are reusable, filesystem-based resources that provide Claude with domain-specific expertise: workflows, context, and best practices that transform general-purpose agents into specialists. Unlike prompts (conversation-level instructions for one-off tasks), Skills load on-demand and eliminate the need to repeatedly provide the same guidance across multiple conversations.”\nBut in practice, they are even more than that: the SKILL.md file represents the living, breathing history of your work—whether you are running a global team or a one-person operation.\nBy structuring a Skill, you aren’t just giving operational instructions; you are creating version control for your expertise. It is a tangible way to visualize how your methodology has been refined over the years, ensuring that tacit knowledge isn’t lost but rather preserved as a legacy.\nThis living documentation serves a powerful dual purpose:\nScaling & Onboarding: For companies, new hires integrate faster because they have an agent that knows the process and answers repetitive questions, freeing up experts. For independent professionals, this transforms your personal expertise into a scalable asset, allowing you to deliver complex work without being the constant bottleneck.\nAI Training: The same material serves to increase collective intelligence, teaching agents the nuances, the tone, and the unique “way of operating” that defines your brand.\nThis documentation augments the capacity of both the agent and the worker in a truly collaborative process. Often, the best way to elevate an agent’s capability isn’t to give rigid orders immediately, but to observe its “default mode” and refine from there.\nBut the horizon is broader. With the rise of spatial and multimodal intelligence, soon we won’t just be documenting words. We are moving toward a future where AI will analyze video and physical movement to learn manual and operational tasks, transferring the “muscle memory” of human work to physical systems.\nMake no mistake: this power is not reserved for industry giants. If you use a computer to work, you can achieve exponential results with agents. But accessibility doesn’t mean simplicity. The possibilities are so vast that they challenge even the most updated experts. In this rapidly evolving landscape, having an experienced guide is the only way to ensure you are actually leveraging these tools, rather than just being overwhelmed by them."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Feed",
+    "section": "",
+    "text": "Quote by Eric Topol\n\n\n\nQuotes\n\nHealthcare\n\nAI\n\n\n\n\n\n\n\n\n\nFeb 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude at Williams F1\n\n\n\nQuotes\n\nAI\n\nBusiness\n\nFormula 1\n\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMoney as a Biological Characteristic\n\n\n\nAI\n\nFuture\n\nTechnology\n\n\n\n\n\n\n\n\n\nFeb 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI Lyrics\n\n\n\nAI\n\nMusic\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude’s Major Feat\n\n\n\nQuotes\n\nSpace\n\nAgents\n\nAI\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Matt Damon\n\n\n\nQuotes\n\nCulture\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Agents Turn Work Processes Into Intelligence\n\n\n\nAgents\n\nAI\n\nWork\n\n\n\n\n\n\n\n\n\nJan 22, 2026\n\n\nEverton Colombo\n\n\n\n\n\n\n\n\n\n\n\n\n3D Maps of the Universe\n\n\n\nQuotes\n\nSpace\n\n\n\n\n\n\n\n\n\nJan 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Terence Tao\n\n\n\nQuotes\n\nAI\n\n\n\n\n\n\n\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\nQuotes\n\nAgents\n\nWork\n\nAI\n\n\n\n\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Andrej Karpathy\n\n\n\nQuotes\n\nAI\n\nLearning\n\nFuture\n\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\nQuotes\n\nAgents\n\nTechnology\n\nAI\n\n\n\n\n\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Aaron Boodman\n\n\n\nQuotes\n\nAI\n\nWork\n\n\n\n\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Thomas Montine\n\n\n\nQuotes\n\nHealthcare\n\nAI\n\n\n\n\n\n\n\n\n\nSep 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Björn Ulvaeus\n\n\n\nQuotes\n\nMusic\n\nAI\n\n\n\n\n\n\n\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Rupert Spira\n\n\n\nQuotes\n\nPhilosophy\n\n\n\n\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "consulting.html",
+    "href": "consulting.html",
+    "title": "Consulting",
+    "section": "",
+    "text": "I offer specialized consulting services in Artificial Intelligence, focusing on agentic workflows, data strategy, and spatial intelligence — including Virtual/Augmented Reality (VR/AR), 3D, and other immersive experiences.\nIf you are looking to leverage AI to optimize your business processes or explore the frontier of immersive computing, let’s talk.\n\nGet in Touch\n\n\n    ✉️ Inquire about Consulting"
+  },
+  {
     "objectID": "datasets.html",
     "href": "datasets.html",
     "title": "Datasets",
@@ -21,32 +105,39 @@
     "text": "Synthetic Data\nNemotron Personas Brazil\nSynthetically generated personas grounded in real demographic, geographic, and personality distributions of Brazil, aiming to capture the diversity and richness of the population."
   },
   {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
-    "title": "Presentations",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Augmented Intelligence and the Future of Reality\n\n\n\nPresentation\n\nAI\n\nFuture\n\nPhilosophy\n\n\n\nExploring how Augmented Intelligence is reshaping our perception of reality and work.\n\n\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nDados Vivos, Arquivos Mortos: A Nova Interface do Trabalho\n\n\n\nPresentation\n\nAI\n\nAgents\n\nAutomation\n\n\n\nDados Corporativos, Agentes, Model Context Protocol.\n\n\n\n\n\nAug 26, 2025\n\n\n\n\n\nNo matching items"
+    "text": "This blog is a personal space for my notes, pointers, and insights gathered from my readings and research. The content reflects my ongoing learning process and is primarily intended for my own reference.\nCheck the Feed for the latest posts."
   },
   {
-    "objectID": "posts/2026-01-22-ai-agents-work-processes/index.html",
-    "href": "posts/2026-01-22-ai-agents-work-processes/index.html",
-    "title": "How AI Agents Turn Work Processes Into Intelligence",
+    "objectID": "quotes/posts/2025-ethan-mollick-1.html",
+    "href": "quotes/posts/2025-ethan-mollick-1.html",
+    "title": "Quote by Ethan Mollick",
     "section": "",
-    "text": "To understand the true power of autonomous agents, we first need to redefine what we call a “Skill.” Following Anthropic’s definition, “Skills are reusable, filesystem-based resources that provide Claude with domain-specific expertise: workflows, context, and best practices that transform general-purpose agents into specialists. Unlike prompts (conversation-level instructions for one-off tasks), Skills load on-demand and eliminate the need to repeatedly provide the same guidance across multiple conversations.”\nBut in practice, they are even more than that: the SKILL.md file represents the living, breathing history of your work—whether you are running a global team or a one-person operation.\nBy structuring a Skill, you aren’t just giving operational instructions; you are creating version control for your expertise. It is a tangible way to visualize how your methodology has been refined over the years, ensuring that tacit knowledge isn’t lost but rather preserved as a legacy.\nThis living documentation serves a powerful dual purpose:\nScaling & Onboarding: For companies, new hires integrate faster because they have an agent that knows the process and answers repetitive questions, freeing up experts. For independent professionals, this transforms your personal expertise into a scalable asset, allowing you to deliver complex work without being the constant bottleneck.\nAI Training: The same material serves to increase collective intelligence, teaching agents the nuances, the tone, and the unique “way of operating” that defines your brand.\nThis documentation augments the capacity of both the agent and the worker in a truly collaborative process. Often, the best way to elevate an agent’s capability isn’t to give rigid orders immediately, but to observe its “default mode” and refine from there.\nBut the horizon is broader. With the rise of spatial and multimodal intelligence, soon we won’t just be documenting words. We are moving toward a future where AI will analyze video and physical movement to learn manual and operational tasks, transferring the “muscle memory” of human work to physical systems.\nMake no mistake: this power is not reserved for industry giants. If you use a computer to work, you can achieve exponential results with agents. But accessibility doesn’t mean simplicity. The possibilities are so vast that they challenge even the most updated experts. In this rapidly evolving landscape, having an experienced guide is the only way to ensure you are actually leveraging these tools, rather than just being overwhelmed by them."
+    "text": "“A real gap between what people using chatbots can do and what even non-coders can do with today’s CLI-like tools that have access to their computers, the web & the ability to execute long-term plans. Big opportunity for the AI lab that gets powerful & safe personal agents right.”\n\n\n— Ethan Mollick"
   },
   {
-    "objectID": "watch/index.html",
-    "href": "watch/index.html",
-    "title": "Watch",
+    "objectID": "quotes/posts/2025-andrej-karpathy.html",
+    "href": "quotes/posts/2025-andrej-karpathy.html",
+    "title": "Quote by Andrej Karpathy",
     "section": "",
-    "text": "A collection of interesting videos and visual insights.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMoney as a Biological Characteristic\n\n\n\n\n\n\n\n\nFeb 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI Lyrics\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\nNo matching items"
+    "text": "“I’m starting to get into a habit of reading everything (blogs, articles, book chapters,…) with LLMs. Usually pass 1 is manual, then pass 2 “explain/summarize”, pass 3 Q&A. I usually end up with a better/deeper understanding than if I moved on. Growing to among top use cases.\nOn the flip side, if you’re a writer trying to explain/communicate something, we may increasingly see less of a mindset of “I’m writing this for another human” and more “I’m writing this for an LLM”. Because once an LLM “gets it”, it can then target, personalize and serve the idea to its user.”\n\n\n— Andrej Karpathy"
   },
   {
-    "objectID": "quotes/posts/2026-williams-f1.html",
-    "href": "quotes/posts/2026-williams-f1.html",
-    "title": "Claude at Williams F1",
+    "objectID": "quotes/posts/2026-engadget.html",
+    "href": "quotes/posts/2026-engadget.html",
+    "title": "Claude’s Major Feat",
     "section": "",
-    "text": "“Claude will be integrated across the entire Williams organisation, working alongside engineers and team strategists to support how the team thinks, plans, and performs across race strategy, car development, and operations. With Formula 1 entering its biggest regulatory change in a generation, Claude will support the team’s ability to make the improvements that count.”\n\n\n— Williams F1, 02/02/2026"
+    "text": "“For Anthropic, meanwhile, this is a major feat. You may recall last spring Claude couldn’t even beat Pokémon Red. In less than a year, the company’s models have gone from struggling to navigate a simple 8-bit Game Boy game to successfully plotting a course for a rover on a distant planet. NASA is excited about the possibility of future collaborations, saying”autonomous AI systems could help probes explore ever more distant parts of the solar system.””\n\n\n— Engadget, 01/30/2026"
+  },
+  {
+    "objectID": "quotes/posts/2025-aaron-boodman.html",
+    "href": "quotes/posts/2025-aaron-boodman.html",
+    "title": "Quote by Aaron Boodman",
+    "section": "",
+    "text": "“Claude doesn’t make me much faster on the work that I am an expert on. Maybe 15-20% depending on the day. It’s the work that I don’t know how to do and would have to research. Or the grunge work I don’t even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn’t have done at all pre-Claude.”\n\n\n— Aaron Boodman"
   },
   {
     "objectID": "quotes/posts/2026-eric-topol.html",
@@ -63,122 +154,10 @@
     "text": "“We should create a human-in-the-loop AI that would help our pathologists be better at reaching the diagnosis, not tell them what the diagnosis is.”\n\n\n— Thomas Montine, MD, PhD, Chair, Department of Pathology at Stanford University"
   },
   {
-    "objectID": "quotes/posts/2026-the-seeds-of-science.html",
-    "href": "quotes/posts/2026-the-seeds-of-science.html",
-    "title": "3D Maps of the Universe",
-    "section": "",
-    "text": "“In the late 1970s, large-scale redshift measurements of galaxies – tracking how far their visible light shifted into the red as they moved away from us – allowed us to map the universe with depth for the first time. Before this, our maps were essentially 2D, like a sheet of paper, with near and far objects overlapping; we had no way of knowing if a vast empty space separated them.\nBut with these new 3D maps, we discovered that over 90% of all stars, galaxies, and gas are crammed into just 20% of the universe. In fact, the majority of stars and galaxies by mass are packed into the dense regions we call clusters and superclusters, which occupy less than 1% of the universe’s volume. These clusters form dense nodes, connected by filaments along which gas appears to travel in massive flows.”\n\n\n— The Seeds of Science"
-  },
-  {
-    "objectID": "quotes/posts/2026-engadget.html",
-    "href": "quotes/posts/2026-engadget.html",
-    "title": "Claude’s Major Feat",
-    "section": "",
-    "text": "“For Anthropic, meanwhile, this is a major feat. You may recall last spring Claude couldn’t even beat Pokémon Red. In less than a year, the company’s models have gone from struggling to navigate a simple 8-bit Game Boy game to successfully plotting a course for a rover on a distant planet. NASA is excited about the possibility of future collaborations, saying”autonomous AI systems could help probes explore ever more distant parts of the solar system.””\n\n\n— Engadget, 01/30/2026"
-  },
-  {
     "objectID": "quotes/posts/2025-rupert-spira.html",
     "href": "quotes/posts/2025-rupert-spira.html",
     "title": "Quote by Rupert Spira",
     "section": "",
     "text": "“You are more certain of the fact of knowing than of anything that you know. The known can always be doubted. This might not be a material world; it might not be the way it appears to be. But even if it is an illusion, the knowing by which that illusion is known must be real, because an unreal knowing or an unreal consciousness could not know anything.”\n\n\n— Rupert Spira"
-  },
-  {
-    "objectID": "quotes/index.html",
-    "href": "quotes/index.html",
-    "title": "Quotes",
-    "section": "",
-    "text": "A collection of thoughtful quotes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Eric Topol\n\n\n\n\n\n\n\n\nFeb 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude at Williams F1\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude’s Major Feat\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Matt Damon\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n3D Maps of the Universe\n\n\n\n\n\n\n\n\nJan 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Terence Tao\n\n\n\n\n\n\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Andrej Karpathy\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\n\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Aaron Boodman\n\n\n\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Thomas Montine\n\n\n\n\n\n\n\n\nSep 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Björn Ulvaeus\n\n\n\n\n\n\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Rupert Spira\n\n\n\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "presentations/dados-vivos.html",
-    "href": "presentations/dados-vivos.html",
-    "title": "Dados Vivos, Arquivos Mortos: A Nova Interface do Trabalho",
-    "section": "",
-    "text": "Ver Apresentação (Slides)\nA presentation about Corporate Data, Agents, and the Model Context Protocol."
-  },
-  {
-    "objectID": "consulting.html",
-    "href": "consulting.html",
-    "title": "Consulting",
-    "section": "",
-    "text": "I offer specialized consulting services in Artificial Intelligence, focusing on agentic workflows, data strategy, and spatial intelligence — including Virtual/Augmented Reality (VR/AR), 3D, and other immersive experiences.\nIf you are looking to leverage AI to optimize your business processes or explore the frontier of immersive computing, let’s talk.\n\nGet in Touch\n\n\n    ✉️ Inquire about Consulting"
-  },
-  {
-    "objectID": "presentations/augmented-intelligence.html",
-    "href": "presentations/augmented-intelligence.html",
-    "title": "Augmented Intelligence and the Future of Reality",
-    "section": "",
-    "text": "1    2    3    4    5    6    7    8    9    10    11    12    13    14    15    16    17    18    19    20 \n\n\n\nWORK IN PROGRESS\n\n\nThis presentation is currently under development. More slides will be added soon.\n\n\nNote: Images were generated by Gemini Nano Banana Pro. Please be aware that AI-generated visuals may not always accurately reflect reality.\n\n\n\n\n\n×"
-  },
-  {
-    "objectID": "quotes/posts/2025-bjorn-ulvaeus.html",
-    "href": "quotes/posts/2025-bjorn-ulvaeus.html",
-    "title": "Quote by Björn Ulvaeus",
-    "section": "",
-    "text": "“[AI] is in no way a substitute for a songwriting partner,” he says. “No, it’s a tool. But it’s a great tool that never existed before, where you can reference anything in the world of music, and which you can use as a sounding board, and you can try new things on.” He continues: “For instance, when I’ve written something, maybe eight bars, I can record them with a lyric, and just ask it, where would you take me if you went into this or that realm of music? What would it sound like? Usually it comes back with garbage, but sometimes there is something that might point me in a new direction. “I can get in touch with my AI at any time. If I wake up in the middle of the night, I can try new things. Whenever you feel like it, whenever you have an idea, you can try it out with your AI partner.”\n\n\n— ABBA‘s Björn Ulvaeus"
-  },
-  {
-    "objectID": "quotes/posts/2025-terence-tao.html",
-    "href": "quotes/posts/2025-terence-tao.html",
-    "title": "Quote by Terence Tao",
-    "section": "",
-    "text": "“I doubt that anything resembling genuine”artificial general intelligence” is within reach of current #AI tools. However, I think a weaker, but still quite valuable, type of “artificial general cleverness” is becoming a reality in various ways.”\n\n\n— Terence Tao"
-  },
-  {
-    "objectID": "quotes/posts/2025-aaron-boodman.html",
-    "href": "quotes/posts/2025-aaron-boodman.html",
-    "title": "Quote by Aaron Boodman",
-    "section": "",
-    "text": "“Claude doesn’t make me much faster on the work that I am an expert on. Maybe 15-20% depending on the day. It’s the work that I don’t know how to do and would have to research. Or the grunge work I don’t even want to do. On this it is hard to even put a number on. Many of the projects I do with Claude day to day I just wouldn’t have done at all pre-Claude.”\n\n\n— Aaron Boodman"
-  },
-  {
-    "objectID": "quotes/posts/2025-ethan-mollick-2.html",
-    "href": "quotes/posts/2025-ethan-mollick-2.html",
-    "title": "Quote by Ethan Mollick",
-    "section": "",
-    "text": "“Three years ago, we were impressed that a machine could write a poem about otters. Less than 1,000 days later, I am debating statistical methodology with an agent that built its own research environment. The era of the chatbot is turning into the era of the digital coworker. To be very clear, Gemini 3 isn’t perfect, and it still needs a manager who can guide and check it. But it suggests that “human in the loop” is evolving from “human who fixes AI mistakes” to “human who directs AI work.” And that may be the biggest change since the release of ChatGPT.”\n\n\n— Ethan Mollick"
-  },
-  {
-    "objectID": "quotes/posts/2026-matt-damon.html",
-    "href": "quotes/posts/2026-matt-damon.html",
-    "title": "Quote by Matt Damon",
-    "section": "",
-    "text": "“Um, and now they’re, you know, they’re like: ‘Can we get a big one in the first five minutes to get somebody?’ You know, we want people to stay tuned in and… it wouldn’t be terrible if you reiterated the plot three or four times in the dialogue because people are on their phones while they’re watching. You know what I mean?”\n\n\n— Matt Damon, 01/16/2026"
-  },
-  {
-    "objectID": "quotes/posts/2025-andrej-karpathy.html",
-    "href": "quotes/posts/2025-andrej-karpathy.html",
-    "title": "Quote by Andrej Karpathy",
-    "section": "",
-    "text": "“I’m starting to get into a habit of reading everything (blogs, articles, book chapters,…) with LLMs. Usually pass 1 is manual, then pass 2 “explain/summarize”, pass 3 Q&A. I usually end up with a better/deeper understanding than if I moved on. Growing to among top use cases.\nOn the flip side, if you’re a writer trying to explain/communicate something, we may increasingly see less of a mindset of “I’m writing this for another human” and more “I’m writing this for an LLM”. Because once an LLM “gets it”, it can then target, personalize and serve the idea to its user.”\n\n\n— Andrej Karpathy"
-  },
-  {
-    "objectID": "quotes/posts/2025-ethan-mollick-1.html",
-    "href": "quotes/posts/2025-ethan-mollick-1.html",
-    "title": "Quote by Ethan Mollick",
-    "section": "",
-    "text": "“A real gap between what people using chatbots can do and what even non-coders can do with today’s CLI-like tools that have access to their computers, the web & the ability to execute long-term plans. Big opportunity for the AI lab that gets powerful & safe personal agents right.”\n\n\n— Ethan Mollick"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Feed",
-    "section": "",
-    "text": "Quote by Eric Topol\n\n\n\nQuotes\n\nHealthcare\n\nAI\n\n\n\n\n\n\n\n\n\nFeb 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude at Williams F1\n\n\n\nQuotes\n\nAI\n\nBusiness\n\nFormula 1\n\n\n\n\n\n\n\n\n\nFeb 4, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMoney as a Biological Characteristic\n\n\n\nAI\n\nFuture\n\nTechnology\n\n\n\n\n\n\n\n\n\nFeb 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAI Lyrics\n\n\n\nAI\n\nMusic\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nClaude’s Major Feat\n\n\n\nQuotes\n\nSpace\n\nAgents\n\nAI\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Matt Damon\n\n\n\nQuotes\n\nCulture\n\n\n\n\n\n\n\n\n\nJan 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nHow AI Agents Turn Work Processes Into Intelligence\n\n\n\nAgents\n\nAI\n\nWork\n\n\n\n\n\n\n\n\n\nJan 22, 2026\n\n\nEverton Colombo\n\n\n\n\n\n\n\n\n\n\n\n\n3D Maps of the Universe\n\n\n\nQuotes\n\nSpace\n\n\n\n\n\n\n\n\n\nJan 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nAugmented Intelligence and the Future of Reality\n\n\n\nPresentation\n\nAI\n\nFuture\n\nPhilosophy\n\n\n\nExploring how Augmented Intelligence is reshaping our perception of reality and work.\n\n\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Terence Tao\n\n\n\nQuotes\n\nAI\n\n\n\n\n\n\n\n\n\nDec 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\nQuotes\n\nAgents\n\nWork\n\nAI\n\n\n\n\n\n\n\n\n\nNov 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Andrej Karpathy\n\n\n\nQuotes\n\nAI\n\nLearning\n\nFuture\n\n\n\n\n\n\n\n\n\nNov 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Ethan Mollick\n\n\n\nQuotes\n\nAgents\n\nTechnology\n\nAI\n\n\n\n\n\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Aaron Boodman\n\n\n\nQuotes\n\nAI\n\nWork\n\n\n\n\n\n\n\n\n\nOct 27, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Thomas Montine\n\n\n\nQuotes\n\nHealthcare\n\nAI\n\n\n\n\n\n\n\n\n\nSep 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDados Vivos, Arquivos Mortos: A Nova Interface do Trabalho\n\n\n\nPresentation\n\nAI\n\nAgents\n\nAutomation\n\n\n\nDados Corporativos, Agentes, Model Context Protocol.\n\n\n\n\n\nAug 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Björn Ulvaeus\n\n\n\nQuotes\n\nMusic\n\nAI\n\n\n\n\n\n\n\n\n\nJul 14, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuote by Rupert Spira\n\n\n\nQuotes\n\nPhilosophy\n\n\n\n\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This blog is a personal space for my notes, pointers, and insights gathered from my readings and research. The content reflects my ongoing learning process and is primarily intended for my own reference.\nCheck the Feed for the latest posts."
-  },
-  {
-    "objectID": "til.html",
-    "href": "til.html",
-    "title": "Today I Learned",
-    "section": "",
-    "text": "No matching items"
   }
 ]

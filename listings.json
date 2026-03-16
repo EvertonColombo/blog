@@ -1,17 +1,7 @@
 [
   {
-    "listing": "/presentations.html",
-    "items": [
-      "/presentations/augmented-intelligence.html",
-      "/presentations/dados-vivos.html"
-    ]
-  },
-  {
-    "listing": "/watch/index.html",
-    "items": [
-      "/watch/posts/2026-02-02-money-biological-characteristic.html",
-      "/watch/posts/2026-02-01-ai-lyrics.html"
-    ]
+    "listing": "/til.html",
+    "items": []
   },
   {
     "listing": "/quotes/index.html",
@@ -32,6 +22,13 @@
     ]
   },
   {
+    "listing": "/watch/index.html",
+    "items": [
+      "/watch/posts/2026-02-02-money-biological-characteristic.html",
+      "/watch/posts/2026-02-01-ai-lyrics.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/quotes/posts/2026-eric-topol.html",
@@ -42,20 +39,14 @@
       "/quotes/posts/2026-matt-damon.html",
       "/posts/2026-01-22-ai-agents-work-processes/index.html",
       "/quotes/posts/2026-the-seeds-of-science.html",
-      "/presentations/augmented-intelligence.html",
       "/quotes/posts/2025-terence-tao.html",
       "/quotes/posts/2025-ethan-mollick-2.html",
       "/quotes/posts/2025-andrej-karpathy.html",
       "/quotes/posts/2025-ethan-mollick-1.html",
       "/quotes/posts/2025-aaron-boodman.html",
       "/quotes/posts/2025-thomas-montine.html",
-      "/presentations/dados-vivos.html",
       "/quotes/posts/2025-bjorn-ulvaeus.html",
       "/quotes/posts/2025-rupert-spira.html"
     ]
-  },
-  {
-    "listing": "/til.html",
-    "items": []
   }
 ]
