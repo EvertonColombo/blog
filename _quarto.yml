@@ -5,6 +5,7 @@ website:
   title: "Everton Eduardo Colombo"
   description: "Personal Blog"
   site-url: "https://evertoncolombo.github.io/blog/"
+  llms-txt: true
   navbar:
     background: primary
     left:
