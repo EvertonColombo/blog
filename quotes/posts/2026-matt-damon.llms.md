@@ -1,0 +1,13 @@
+# Quote by Matt Damon
+
+Quotes
+
+Culture
+
+Published
+
+January 28, 2026
+
+“Um, and now they’re, you know, they’re like: ‘Can we get a big one in the first five minutes to get somebody?’ You know, we want people to stay tuned in and… it wouldn’t be terrible if you reiterated the plot three or four times in the dialogue because people are on their phones while they’re watching. You know what I mean?”
+
+— [Matt Damon](https://www.youtube.com/watch?v=AVEZBy1uAk8), 01/16/2026

@@ -1,0 +1,13 @@
+# Datasets
+
+A hand-picked collection of datasets
+
+## Defect Detection
+
+[Kaputt Dataset](https://www.kaputt-dataset.com)
+
+## Synthetic Data
+
+[Nemotron Personas Brazil](https://huggingface.co/blog/nvidia/nemotron-personas-brazil)
+
+Synthetically generated personas grounded in real demographic, geographic, and personality distributions of Brazil, aiming to capture the diversity and richness of the population.

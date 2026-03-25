@@ -1,0 +1,17 @@
+# Claude’s Major Feat
+
+Quotes
+
+Space
+
+Agents
+
+AI
+
+Published
+
+January 31, 2026
+
+“For Anthropic, meanwhile, this is a major feat. You may recall last spring Claude couldn’t even beat Pokémon Red. In less than a year, the company’s models have gone from struggling to navigate a simple 8-bit Game Boy game to successfully plotting a course for a rover on a distant planet. NASA is excited about the possibility of future collaborations, saying”autonomous AI systems could help probes explore ever more distant parts of the solar system.””
+
+— [Engadget](https://www.engadget.com/ai/nasa-used-claude-to-plot-a-route-for-its-perseverance-rover-on-mars-203150701.html), 01/30/2026

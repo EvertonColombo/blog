@@ -1,0 +1,15 @@
+# 3D Maps of the Universe
+
+Quotes
+
+Space
+
+Published
+
+January 21, 2026
+
+“In the late 1970s, large-scale redshift measurements of galaxies – tracking how far their visible light shifted into the red as they moved away from us – allowed us to map the universe with depth for the first time. Before this, our maps were essentially 2D, like a sheet of paper, with near and far objects overlapping; we had no way of knowing if a vast empty space separated them.
+
+But with these new 3D maps, we discovered that over 90% of all stars, galaxies, and gas are crammed into just 20% of the universe. In fact, the majority of stars and galaxies by mass are packed into the dense regions we call clusters and superclusters, which occupy less than 1% of the universe’s volume. These clusters form dense nodes, connected by filaments along which gas appears to travel in massive flows.”
+
+— [The Seeds of Science](https://www.theseedsofscience.pub/i/183851653/3d-maps)

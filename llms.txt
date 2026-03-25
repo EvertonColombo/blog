@@ -1,0 +1,29 @@
+# Everton Eduardo Colombo
+
+> Personal Blog
+
+## Pages
+
+- [Today I Learned](https://evertoncolombo.github.io/blog/til.llms.md)
+- [Quote by Ethan Mollick](https://evertoncolombo.github.io/blog/quotes/posts/2025-ethan-mollick-2.llms.md)
+- [Quote by Matt Damon](https://evertoncolombo.github.io/blog/quotes/posts/2026-matt-damon.llms.md)
+- [Claude at Williams F1](https://evertoncolombo.github.io/blog/quotes/posts/2026-williams-f1.llms.md)
+- [3D Maps of the Universe](https://evertoncolombo.github.io/blog/quotes/posts/2026-the-seeds-of-science.llms.md)
+- [Quote by Terence Tao](https://evertoncolombo.github.io/blog/quotes/posts/2025-terence-tao.llms.md)
+- [Quote by Björn Ulvaeus](https://evertoncolombo.github.io/blog/quotes/posts/2025-bjorn-ulvaeus.llms.md)
+- [Quotes](https://evertoncolombo.github.io/blog/quotes/index.llms.md)
+- [Money as a Biological Characteristic](https://evertoncolombo.github.io/blog/watch/posts/2026-02-02-money-biological-characteristic.llms.md)
+- [Watch](https://evertoncolombo.github.io/blog/watch/index.llms.md)
+- [How AI Agents Turn Work Processes Into Intelligence](https://evertoncolombo.github.io/blog/posts/2026-01-22-ai-agents-work-processes/index.llms.md)
+- [Feed](https://evertoncolombo.github.io/blog/index.llms.md)
+- [Consulting](https://evertoncolombo.github.io/blog/consulting.llms.md)
+- [Datasets](https://evertoncolombo.github.io/blog/datasets.llms.md)
+- [AI Lyrics](https://evertoncolombo.github.io/blog/watch/posts/2026-02-01-ai-lyrics.llms.md)
+- [About](https://evertoncolombo.github.io/blog/about.llms.md)
+- [Quote by Ethan Mollick](https://evertoncolombo.github.io/blog/quotes/posts/2025-ethan-mollick-1.llms.md)
+- [Quote by Andrej Karpathy](https://evertoncolombo.github.io/blog/quotes/posts/2025-andrej-karpathy.llms.md)
+- [Claude's Major Feat](https://evertoncolombo.github.io/blog/quotes/posts/2026-engadget.llms.md)
+- [Quote by Aaron Boodman](https://evertoncolombo.github.io/blog/quotes/posts/2025-aaron-boodman.llms.md)
+- [Quote by Eric Topol](https://evertoncolombo.github.io/blog/quotes/posts/2026-eric-topol.llms.md)
+- [Quote by Thomas Montine](https://evertoncolombo.github.io/blog/quotes/posts/2025-thomas-montine.llms.md)
+- [Quote by Rupert Spira](https://evertoncolombo.github.io/blog/quotes/posts/2025-rupert-spira.llms.md)

@@ -1,0 +1,19 @@
+# Quote by Andrej Karpathy
+
+Quotes
+
+AI
+
+Learning
+
+Future
+
+Published
+
+November 17, 2025
+
+“I’m starting to get into a habit of reading everything (blogs, articles, book chapters,…) with LLMs. Usually pass 1 is manual, then pass 2 “explain/summarize”, pass 3 Q&A. I usually end up with a better/deeper understanding than if I moved on. Growing to among top use cases.
+
+On the flip side, if you’re a writer trying to explain/communicate something, we may increasingly see less of a mindset of “I’m writing this for another human” and more “I’m writing this for an LLM”. Because once an LLM “gets it”, it can then target, personalize and serve the idea to its user.”
+
+— [Andrej Karpathy](https://x.com/karpathy/status/1990577951671509438)
