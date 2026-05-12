@@ -1,0 +1,14 @@
+---
+title: "The Inversion"
+date: "05/11/2026"
+categories: [Quotes, AI, Algorithms]
+---
+
+::: {.quote-container}
+::: {.quote-text}
+"Part of why it is in my mind is because it's something to worry about, but it's also an epic nerd snipe for the algorithm designer part of my brain. You need a new breed of algorithm. Not quite classifier, not quite outlier detector and not quite clusterer. Something new."
+:::
+::: {.quote-author}
+— [Vincent D. Warmerdam](https://koaning.io/posts/the-inversion/)
+:::
+:::
