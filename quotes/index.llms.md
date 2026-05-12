@@ -1,5 +1,9 @@
 A collection of thoughtful quotes.
 
+### [The Inversion](../quotes/posts/2026-vincent-warmerdam.llms.md)
+
+May 11, 2026
+
 ### [Quote by Eric Topol](../quotes/posts/2026-eric-topol.llms.md)
 
 Feb 8, 2026

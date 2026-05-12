@@ -9,8 +9,35 @@
 <link>https://evertoncolombo.github.io/blog/quotes/</link>
 <atom:link href="https://evertoncolombo.github.io/blog/quotes/index.xml" rel="self" type="application/rss+xml"/>
 <description>Personal Blog</description>
-<generator>quarto-1.9.36</generator>
-<lastBuildDate>Sun, 08 Feb 2026 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Mon, 11 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Inversion</title>
+  <link>https://evertoncolombo.github.io/blog/quotes/posts/2026-vincent-warmerdam.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="quote-container">
+<div class="quote-text">
+<p>“Part of why it is in my mind is because it’s something to worry about, but it’s also an epic nerd snipe for the algorithm designer part of my brain. You need a new breed of algorithm. Not quite classifier, not quite outlier detector and not quite clusterer. Something new.”</p>
+</div>
+<div class="quote-author">
+<p>— <a href="https://koaning.io/posts/the-inversion/">Vincent D. Warmerdam</a></p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>Quotes</category>
+  <category>AI</category>
+  <category>Algorithms</category>
+  <guid>https://evertoncolombo.github.io/blog/quotes/posts/2026-vincent-warmerdam.html</guid>
+  <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Quote by Eric Topol</title>
   <link>https://evertoncolombo.github.io/blog/quotes/posts/2026-eric-topol.html</link>
