@@ -1,5 +1,5 @@
 ---
-title: "The Inversion"
+title: "Quote by Vincent D. Warmerdam"
 date: "05/11/2026"
 categories: [Quotes, AI, Algorithms]
 ---

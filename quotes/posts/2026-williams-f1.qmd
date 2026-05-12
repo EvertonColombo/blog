@@ -1,5 +1,5 @@
 ---
-title: "Claude at Williams F1"
+title: "Quote by Williams F1"
 date: "02/04/2026"
 categories: [Quotes, AI, Business, Formula 1]
 ---
