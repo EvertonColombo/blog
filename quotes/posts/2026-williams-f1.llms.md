@@ -1,4 +1,4 @@
-# Claude at Williams F1
+# Quote by Williams F1
 
 Quotes
 

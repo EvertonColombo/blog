@@ -1,4 +1,4 @@
-# The Inversion
+# Quote by Vincent D. Warmerdam
 
 Quotes
 

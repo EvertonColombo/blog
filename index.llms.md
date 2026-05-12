@@ -1,4 +1,4 @@
-### [The Inversion](quotes/posts/2026-vincent-warmerdam.llms.md)
+### [Quote by Vincent D. Warmerdam](quotes/posts/2026-vincent-warmerdam.llms.md)
 
 May 11, 2026
 
@@ -6,7 +6,7 @@ May 11, 2026
 
 Feb 8, 2026
 
-### [Claude at Williams F1](quotes/posts/2026-williams-f1.llms.md)
+### [Quote by Williams F1](quotes/posts/2026-williams-f1.llms.md)
 
 Feb 4, 2026
 
@@ -18,7 +18,7 @@ Feb 2, 2026
 
 Feb 1, 2026
 
-### [Claude’s Major Feat](quotes/posts/2026-engadget.llms.md)
+### [Quote by Igor Bonifacic](quotes/posts/2026-engadget.llms.md)
 
 Jan 31, 2026
 
@@ -34,7 +34,7 @@ Jan 22, 2026
 
 Everton Colombo
 
-### [3D Maps of the Universe](quotes/posts/2026-the-seeds-of-science.llms.md)
+### [Quote by Julian Gough](quotes/posts/2026-the-seeds-of-science.llms.md)
 
 Jan 21, 2026
 
@@ -62,7 +62,7 @@ Oct 27, 2025
 
 Sep 19, 2025
 
-### [Quote by Björn Ulvaeus](quotes/posts/2025-bjorn-ulvaeus.llms.md)
+### [Quote by ABBA‘s Björn Ulvaeus](quotes/posts/2025-bjorn-ulvaeus.llms.md)
 
 Jul 14, 2025
 

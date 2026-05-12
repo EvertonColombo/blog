@@ -1,4 +1,4 @@
-# Quote by Björn Ulvaeus
+# Quote by ABBA‘s Björn Ulvaeus
 
 Quotes
 

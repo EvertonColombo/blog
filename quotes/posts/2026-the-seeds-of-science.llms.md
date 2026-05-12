@@ -1,4 +1,4 @@
-# 3D Maps of the Universe
+# Quote by Julian Gough
 
 Quotes
 
@@ -12,4 +12,4 @@ January 21, 2026
 
 But with these new 3D maps, we discovered that over 90% of all stars, galaxies, and gas are crammed into just 20% of the universe. In fact, the majority of stars and galaxies by mass are packed into the dense regions we call clusters and superclusters, which occupy less than 1% of the universe’s volume. These clusters form dense nodes, connected by filaments along which gas appears to travel in massive flows.”
 
-— [The Seeds of Science](https://www.theseedsofscience.pub/i/183851653/3d-maps)
+— [Julian Gough](https://www.theseedsofscience.pub/i/183851653/3d-maps)
